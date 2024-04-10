@@ -1,0 +1,120 @@
+[
+    {
+      "id": "1",
+      "title": "Vestido de noche",
+      "description": "Vestido negro con tull",
+      "code": "P001",
+      "price": 29.99,
+      "status": true,
+      "stock": 100,
+      "category": "Ropa",
+      "thumbnails": ["path/to/image1.jpg", "path/to/image2.jpg"]
+    },
+    {
+      "id": "2",
+      "title": "Vestido de Cóctel",
+      "description": "Vestido hasta la rodilla color rosa",
+      "code": "P002",
+      "price": 49.99,
+      "status": true,
+      "stock": 50,
+      "category": "Ropa",
+      "thumbnails": ["path/to/image3.jpg", "path/to/image4.jpg"]
+    },
+    {
+      "id": "3",
+      "title": "Conjunto de fiesta",
+      "description": "Polera de fantasía plateada con pantalón palazzo lycra",
+      "code": "P003",
+      "price": 19.99,
+      "status": true,
+      "stock": 200,
+      "category": "Ropa",
+      "thumbnails": ["path/to/image5.jpg", "path/to/image6.jpg"]
+    },
+
+    {
+        "id": "4",
+        "title": "Vestido gala",
+        "description": "Vestido strapless corte medio rojo ",
+        "code": "P004",
+        "price": 19.99,
+        "status": true,
+        "stock": 200,
+        "category": "Ropa",
+        "thumbnails": ["path/to/image5.jpg", "path/to/image6.jpg"]
+      },
+
+      {
+        "id": "5",
+        "title": "Smoquin negro ",
+        "description": "Smoquin negro para eventos o recepciones",
+        "code": "P005",
+        "price": 19.99,
+        "status": true,
+        "stock": 200,
+        "category": "Ropa",
+        "thumbnails": ["path/to/image5.jpg", "path/to/image6.jpg"]
+      },
+
+      {
+        "id": "6",
+        "title": "Smoquin azul eléctrico",
+        "description": "Smoquin azul para vestir a los niños",
+        "code": "P006",
+        "price": 19.99,
+        "status": true,
+        "stock": 200,
+        "category": "Ropa",
+        "thumbnails": ["path/to/image5.jpg", "path/to/image6.jpg"]
+      },
+      
+      {
+        "id": "7",
+        "title": "Smoquin gris",
+        "description": "Smoquin gris cuatro piezas",
+        "code": "P007",
+        "price": 19.99,
+        "status": true,
+        "stock": 200,
+        "category": "Ropa",
+        "thumbnails": ["path/to/image5.jpg", "path/to/image6.jpg"]
+      },  
+      
+      {
+        "id": "8",
+        "title": "Producto 3",
+        "description": "Descripción del Producto 3",
+        "code": "P008",
+        "price": 19.99,
+        "status": true,
+        "stock": 200,
+        "category": "Ropa",
+        "thumbnails": ["path/to/image5.jpg", "path/to/image6.jpg"]
+      },  
+      
+      {
+        "id": "9",
+        "title": "Vestido de noche",
+        "description": "Vestido cuello abierto con estampado",
+        "code": "P009",
+        "price": 19.99,
+        "status": true,
+        "stock": 200,
+        "category": "Ropa",
+        "thumbnails": ["path/to/image5.jpg", "path/to/image6.jpg"]
+      },
+      
+      {
+        "id": "10",
+        "title": "Vestido de Cóctel",
+        "description": "Vestido morado  con túnica",
+        "code": "P010",
+        "price": 19.99,
+        "status": true,
+        "stock": 200,
+        "category": "Ropa",
+        "thumbnails": ["path/to/image5.jpg", "path/to/image6.jpg"]
+      }
+  ]
+  
